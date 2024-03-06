@@ -11,10 +11,10 @@ Below are LINKS TO SOLUTIONS AND EXERCISES sorted alphabetically by level of adv
 
 TASK: https://www.hackerrank.com/challenges/java-if-else/problem?isFullScreen=true
 
-- [Java Stdin and Stdout I.java](<Java Stdin and Stdout I.java>)
+- [Java Stdin and Stdout I.java](<Basic/Java Stdin and Stdout I.java>)
 
 TASK: https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem?isFullScreen=true
 
-- [Welcome to Java!.java](<Welcome to Java!.java>)
+- [Welcome to Java!.java](<Basic/Welcome to Java!.java>)
 
 TASK: https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true
