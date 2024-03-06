@@ -15,6 +15,10 @@ TASK: https://www.hackerrank.com/challenges/java-if-else/problem?isFullScreen=tr
 
 TASK: https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem?isFullScreen=true
 
+- [Java Stdin and Stdout II.java](<Basic/Java Stdin and Stdout II.java>)
+
+TASK: https://www.hackerrank.com/challenges/java-stdin-stdout/problem?isFullScreen=true
+
 - [Welcome to Java!.java](<Basic/Welcome to Java!.java>)
 
 TASK: https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true
