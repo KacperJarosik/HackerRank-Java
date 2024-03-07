@@ -11,6 +11,10 @@ Below are LINKS TO SOLUTIONS AND EXERCISES sorted alphabetically by level of adv
 
 TASK: https://www.hackerrank.com/challenges/java-if-else/problem?isFullScreen=true
 
+- [Create Java Output Formatting.java](<Basic/Create Java Output Formatting.java>)
+
+TASK: https://www.hackerrank.com/challenges/java-output-formatting/problem?isFullScreen=true
+
 - [Java Stdin and Stdout I.java](<Basic/Java Stdin and Stdout I.java>)
 
 TASK: https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem?isFullScreen=true
