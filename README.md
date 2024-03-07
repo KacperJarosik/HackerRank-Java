@@ -11,6 +11,10 @@ Below are LINKS TO SOLUTIONS AND EXERCISES sorted alphabetically by level of adv
 
 TASK: https://www.hackerrank.com/challenges/java-if-else/problem?isFullScreen=true
 
+- [Java Loops I.java](<Basic/Java Loops I.java>)
+
+TASK: https://www.hackerrank.com/challenges/java-loops-i/problem?isFullScreen=true
+
 - [Java Output Formatting.java](<Basic/Java Output Formatting.java>)
 
 TASK: https://www.hackerrank.com/challenges/java-output-formatting/problem?isFullScreen=true
