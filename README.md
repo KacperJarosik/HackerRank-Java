@@ -6,6 +6,9 @@ I write all the code in java 8.
 Below are LINKS TO SOLUTIONS AND EXERCISES sorted alphabetically by level of advancement.
 
 ## Basic
+- [Java Datatypes.java](<Basic/Java Datatypes.java>)
+
+TASK: https://www.hackerrank.com/challenges/java-datatypes/problem?isFullScreen=true
 
 - [Java If-Else.java](<Basic/Java If-Else.java>)
 
