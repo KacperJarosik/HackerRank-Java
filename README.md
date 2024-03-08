@@ -15,6 +15,10 @@ TASK: https://www.hackerrank.com/challenges/java-if-else/problem?isFullScreen=tr
 
 TASK: https://www.hackerrank.com/challenges/java-loops-i/problem?isFullScreen=true
 
+- [Java Loops II.java](<Basic/Java Loops II.java>)
+
+TASK: https://www.hackerrank.com/challenges/java-loops/problem?isFullScreen=true
+
 - [Java Output Formatting.java](<Basic/Java Output Formatting.java>)
 
 TASK: https://www.hackerrank.com/challenges/java-output-formatting/problem?isFullScreen=true
