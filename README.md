@@ -18,6 +18,10 @@ TASK: https://www.hackerrank.com/challenges/java-end-of-file/problem?isFullScree
 
 TASK: https://www.hackerrank.com/challenges/java-if-else/problem?isFullScreen=true
 
+- [Java Int to String.java](<Basic/Java Int to String.java>)
+
+TASK: https://www.hackerrank.com/challenges/java-int-to-string/problem?isFullScreen=true
+
 - [Java Loops I.java](<Basic/Java Loops I.java>)
 
 TASK: https://www.hackerrank.com/challenges/java-loops-i/problem?isFullScreen=true
