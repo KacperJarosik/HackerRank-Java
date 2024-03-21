@@ -10,6 +10,10 @@ Below are LINKS TO SOLUTIONS AND EXERCISES sorted alphabetically by level of adv
 
 TASK: https://www.hackerrank.com/challenges/java-datatypes/problem?isFullScreen=true
 
+- [Java End-of-file.java](<Basic/Java End-of-file.java>)
+
+TASK: https://www.hackerrank.com/challenges/java-end-of-file/problem?isFullScreen=true
+
 - [Java If-Else.java](<Basic/Java If-Else.java>)
 
 TASK: https://www.hackerrank.com/challenges/java-if-else/problem?isFullScreen=true
